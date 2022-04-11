@@ -3,14 +3,13 @@ body {
   position: relative;
   width: 100%;
   height: 100%;
-  font-size: clamp(8px, 1vh, 16px);
-  font-weight: bold;
+  font-size: clamp(4px, 1.5vh, 12px);
+  margin: 0;
+  padding: 0;
 }
 
 body {
   color: #333;
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
